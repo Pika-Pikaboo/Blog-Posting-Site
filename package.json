@@ -2,6 +2,9 @@
   "name": "GregLim",
   "packageManager": "yarn@3.2.3",
   "author": "Marn Htet Zan",
+  "engines": {
+    "node": "18.8.0"
+  },
   "scripts": {
     "dev": "nodemon main.js",
     "start": "node test.js"
